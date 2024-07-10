@@ -1,6 +1,6 @@
 # Hello there, I am Hari. 👋
 
-- 🔭 I’m currently working on **Django Framework & Harvard CS50X**
+- 🔭 I’m currently working on **Django Framework & [Harvard CS50X](https://cs50.harvard.edu/x/2024/)**
 - 🌱 I’m currently learning **Python & C Programming**
 ## Feel free to check out my,
  📄[Resume](https://drive.google.com/file/d/1Q3MXX9OZNzmtb95FTnbV2oaYZbFPpjua/view?usp=drive_link)
