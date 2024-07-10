@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning **Python & C Programming**
 ## Feel free to check out my,
  📄[Resume](https://drive.google.com/file/d/1Q3MXX9OZNzmtb95FTnbV2oaYZbFPpjua/view?usp=drive_link)
-## Reach out to me at
-📩 **harilalsunil@proton.me**
+## Reach out to me on 🤝
+📩 **harilalsunil@proton.me** 
 
 <!--
 **harilal766/harilal766** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
