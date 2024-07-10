@@ -4,6 +4,9 @@
 - 🌱 I’m currently learning **Python & C Programming**
 ## Feel free to check out my,
  📄[Resume](https://drive.google.com/file/d/1Q3MXX9OZNzmtb95FTnbV2oaYZbFPpjua/view?usp=drive_link)
+# Languages & Tools
+
+
 ## Reach out to me on 🤝
 📩 **harilalsunil@proton.me** 
 
