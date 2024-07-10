@@ -1,9 +1,9 @@
-## Hello there, I am Hari. 👋
+# Hello there, I am Hari. 👋
 
 - 🔭 I’m currently working on **Django Framework & Harvard CS50X**
 - 🌱 I’m currently learning **Python & C Programming**
-# Feel free to check out my
- [Resume](https://drive.google.com/file/d/1Q3MXX9OZNzmtb95FTnbV2oaYZbFPpjua/view?usp=drive_link)
+## Feel free to check out my,
+ 📄[Resume](https://drive.google.com/file/d/1Q3MXX9OZNzmtb95FTnbV2oaYZbFPpjua/view?usp=drive_link)
 - 📫 you can reach out to me at 📩 **harilalsunil@proton.me**
 
 <!--
