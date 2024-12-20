@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harilal766" alt="harilal766" /></a> </p>
 
-- 🌱 I’m currently working on **[Ecom-Dashboard](https://github.com/harilal766/Ecom-Dashboard) & Harvard CS50X**
+- 🌱 I’m currently working on **[Ecom-Dashboard](https://github.com/harilal766/Ecom-Dashboard), Harvard CS50X & The Odin Project**
 
 - 📫 How to reach me **harilalsunil@proton.me**
 
