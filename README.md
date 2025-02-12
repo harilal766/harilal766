@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently working on **[Ecom-Dashboard](https://github.com/harilal766/Ecom-Dashboard), [Harvard CS50X](https://pll.harvard.edu/course/cs50-introduction-computer-science) & [The Odin Project](https://www.theodinproject.com/dashboard)**
 
-- 📫 How to reach me **harilalsunil@proton.me**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17hDORLsnk4uzJwe6t3n92sJ-6vYhu5cr/view?usp=drive_link)
 
