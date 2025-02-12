@@ -1,10 +1,6 @@
 <h1 align="center">Hello There, 👋 I'm Harilal.</h1>
 <h3 align="center">A programming enthusiast from Kerala, India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harilal766&label=Profile%20views&color=0e75b6&style=flat" alt="harilal766" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harilal766" alt="harilal766" /></a> </p>
-
 - 🌱 I’m currently working on **[Ecom-Dashboard](https://github.com/harilal766/Ecom-Dashboard), [Harvard CS50X](https://pll.harvard.edu/course/cs50-introduction-computer-science) & [The Odin Project](https://www.theodinproject.com/dashboard)**
 
 - 📫 How to reach me **harilalsunil@proton.me**
