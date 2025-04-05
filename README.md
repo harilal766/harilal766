@@ -1,4 +1,4 @@
-<h1 align="center">Hello There, 👋 I'm Harilal.</h1>
+<h1 align="center">Hello There, 👋 I'm Hari.</h1>
 <h3 align="center">A programming enthusiast from Kerala, India</h3>
 
 - 🌱 I’m currently working on **[Ecom-Dashboard](https://github.com/harilal766/Ecom-Dashboard), [Harvard CS50X](https://pll.harvard.edu/course/cs50-introduction-computer-science) & [The Odin Project](https://www.theodinproject.com/dashboard)**
