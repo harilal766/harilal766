@@ -1,7 +1,7 @@
 <h1 align="center">Hello There, 👋 I'm Hari.</h1>
 <h3 align="center">A programming enthusiast from Kerala, India</h3>
 
-- 🌱 I’m currently working on **[Ecom-Dashboard](https://github.com/harilal766/Ecom-Dashboard), [Harvard CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science) & [The Odin Project](https://www.theodinproject.com/dashboard)**
+- 🌱 I’m currently working on **[Ecom-Tango](https://github.com/harilal766/Ecom-Tango), [Harvard CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science) & [The Odin Project](https://www.theodinproject.com/dashboard)**
 
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17hDORLsnk4uzJwe6t3n92sJ-6vYhu5cr/view?usp=drive_link)
